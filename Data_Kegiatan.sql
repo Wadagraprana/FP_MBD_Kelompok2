@@ -237,3 +237,48 @@ VALUES ('K00079', 'P079', 'KK001', 'Kelas Pengganti', 'Kelas Pengganti Matdis', 
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
 VALUES ('K00080', 'P080', 'KK005', 'Diskusi', 'Diskusi dan Pembuatan Desain UI/UX', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00081', 'P081', 'KK001', 'Kuliah PEngganti Elektro', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00082', 'P082', 'KK004', 'Rapat Komunal', 'Rapat Komunal Teknik Mesin',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00083', 'P083', 'KK001', 'Kuis Susulan Sipil', 'Rapat bulanan  Teknik Sipil',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00084', 'P084', 'KK003', 'Seminar Informatika', 'Seminar teknologi terbaru  Teknik Informatika',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00085', 'P085', 'KK001', 'Kuliah Pengganti Kimia', 'Kuliah mingguan  Teknik Kimia',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00086', 'P086', 'KK002', 'Praktikum Komputer', 'Praktikum mingguan  Teknik Komputer', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00087', 'P087', 'KK006', 'Bootcamp Industri', 'Bootcamp untuk industri  Teknik Industri',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00088', 'P088', 'KK001', 'Kuliah Pengganti  Matematika', 'Kuliah reguler  Matematika', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00089', 'P089', 'KK004', 'Rapat Sistem Informasi', 'Rapat bulanan  Sistem Informasi',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00090', 'P090', 'KK001', 'Kuis Susulan Perkapalan', 'Kuis susulan  Teknik Perkapalan', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00091', 'P091', 'KK006', 'Bootcamp Biomedik', 'Bootcamp untuk biomedik  Teknik Biomedik',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00092', 'P092', 'KK001', 'Kuliah Pengganti Biologi', 'Kuliah mingguan  Biologi',  NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00093', 'P093', 'KK004', 'Rapat Sistem Informasi', 'Rapat bulanan  Sistem Informasi', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00094', 'P094', 'KK001', 'Kuis Susulan Teknologi Informasi', 'Kuis susulan Kuis Susulan Teknologi Informasi', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00095', 'P095', 'KK006', 'Bootcamp Elektro', 'Bootcamp untuk elektro  Teknik Elektro', NULL);
