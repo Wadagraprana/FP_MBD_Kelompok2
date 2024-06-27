@@ -1,13 +1,13 @@
 CREATE TABLE jabatan (
     jabatan_id CHAR(5) PRIMARY KEY,
-    jabatan_nama VARCHAR(30) NOT NULL
+    jabatan_nama VARCHAR(60) NOT NULL
 );
 
 CREATE TABLE users (
     users_id CHAR(10) NOT NULL PRIMARY KEY,
     users_jabatan_id CHAR(5) NOT NULL,
     users_nama VARCHAR(50) NOT NULL,
-    users_departemen VARCHAR(20),
+    users_departemen VARCHAR(40),
     users_fakultas VARCHAR(20),
     users_noTelp VARCHAR(20) NOT NULL,
     users_email VARCHAR(50) NOT NULL,
@@ -29,7 +29,7 @@ CREATE TABLE peminjaman (
 
 CREATE TABLE kategori_kegiatan (
     kategori_id CHAR(5) NOT NULL PRIMARY KEY,
-    kategori_nama VARCHAR(16) NOT NULL
+    kategori_nama VARCHAR(40) NOT NULL
 );
 
 CREATE TABLE Kegiatan (
@@ -45,7 +45,7 @@ CREATE TABLE Kegiatan (
 
 CREATE TABLE instansi (
     instansi_id CHAR(6) NOT NULL PRIMARY KEY,
-    instansi_name VARCHAR(50) NOT NULL,
+    instansi_name VARCHAR(60) NOT NULL,
     instansi_email VARCHAR(50) NOT NULL,
     instansi_telp  VARCHAR(50) NOT NULL
 );
@@ -67,7 +67,7 @@ CREATE TABLE jenis_ruangan (
 );
 
 CREATE TABLE ruangan (
-    ruangan_id VARCHAR(11) NOT NULL PRIMARY KEY,
+    ruangan_id VARCHAR(13) NOT NULL PRIMARY KEY,
     ruangan_jenis_id CHAR(5) NOT NULL,
     ruangan_myAdmin_id CHAR(6) NOT NULL,
     ruangan_instansi_id CHAR(6) NOT NULL,
