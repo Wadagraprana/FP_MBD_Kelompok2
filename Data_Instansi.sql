@@ -1,4 +1,5 @@
- ('INS001', 'Fakultas Teknologi Elektro dan Informatika Cerdas', 'fteic@its.ac.id', '031-5994251'),
+INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp) VALUES
+('INS001', 'Fakultas Teknologi Elektro dan Informatika Cerdas', 'fteic@its.ac.id', '031-5994251'),
 ('INS002', 'Program Studi Teknik Elektro', 'te@its.ac.id', '031-5994252'),
 ('INS003', 'Program Studi Teknik Biomedik', 'tb@its.ac.id', '031-5994253'),
 ('INS004', 'Program Studi Rekayasa Perangkat Lunak', 'rpl@its.ac.id', '031-5994254'),
