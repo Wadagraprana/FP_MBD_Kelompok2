@@ -77,7 +77,7 @@ INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_i
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('IF-PKT', 'JR004', 'ADM021', 'INS005', 'Laboratorium Pemodelan dan Komputasi Terapan', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('SI-1101', 'JR001', 'ADM024', 'INS008', 'Kelas 1101', NULL, 'Tersedia'); --si
+('SI-1101', 'JR001', 'ADM024', 'INS008', 'Kelas 1101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('SI-1102', 'JR001', 'ADM024', 'INS008', 'Kelas 1102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
@@ -85,11 +85,11 @@ INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_i
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('SI-LMSI', 'JR004', 'ADM026', 'INS008', 'Laboratorium Manajemen Sistem Informasi', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TW1-501', 'JR001', 'ADM027', 'INS025', 'Kelas 501', NULL, 'Tersedia'); --tw1
+('TW1-501', 'JR001', 'ADM027', 'INS025', 'Kelas 501', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TW1-502', 'JR001', 'ADM025', 'INS025', 'Kelas 502', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TW2-601', 'JR001', 'ADM027', 'INS003', 'Kelas 601', NULL, 'Tersedia'); --tw2
+('TW2-601', 'JR001', 'ADM027', 'INS003', 'Kelas 601', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TW2-602', 'JR001', 'ADM026', 'INS003', 'Kelas 602', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
@@ -109,27 +109,27 @@ INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_i
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TAMAN-01', 'JR020', 'ADM034', 'INS058', 'Taman Alumni', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('DI-101', 'JR001', 'ADM034', 'INS046', 'Kelas Studio 101', NULL, 'Tersedia'); --despro
+('DI-101', 'JR001', 'ADM034', 'INS046', 'Kelas Studio 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('DI-102', 'JR001', 'ADM0034', 'INS046', 'Kelas Studio 102', NULL, 'Tersedia');
+('DI-102', 'JR001', 'ADM034', 'INS046', 'Kelas Studio 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('DI-103', 'JR001', 'ADM036', 'INS046', 'Kelas Teori 103', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('DI-SAP', 'JR049', 'ADM036', 'INS046', 'Studio Animasi dan Perancangan', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TP-101', 'JR001', 'ADM037', 'INS034', 'Kelas 101', NULL, 'Tersedia'); --tekpal
+('TP-101', 'JR001', 'ADM037', 'INS034', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TP-102', 'JR001', 'ADM038', 'INS034', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TP-103', 'JR001', 'ADM038', 'INS034', 'Kelas 103', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TMM-LMF', 'JR004', 'ADM039', 'INS030', 'Laboratorium Metalurgi Manufaktur', NULL, 'Tersedia'); --metal
+('TMM-LMF', 'JR004', 'ADM039', 'INS030', 'Laboratorium Metalurgi Manufaktur', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TMM-LPMM', 'JR004', 'ADM040', 'INS030', 'Laboratorium Pengolahan Mineral dan Material', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TMM-LIM', 'JR004', 'ADM041', 'INS030', 'Laboratorium Inovasi Material', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TK-101', 'JR001', 'ADM041', 'INS029', 'Kelas 101', NULL, 'Tersedia'); --kimia
+('TK-101', 'JR001', 'ADM041', 'INS029', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TK-102', 'JR001', 'ADM043', 'INS029', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
@@ -137,13 +137,13 @@ INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_i
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TK-AULA-01', 'JR002', 'ADM046', 'INS029', 'Aula Oedjo Djoeriaman', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('RT-SIDANG-01', 'JR024', 'ADM045', 'INS057', 'Ruang Sidang Utama', NULL, 'Tersedia'); --rektorat
+('RT-SIDANG-01', 'JR024', 'ADM045', 'INS057', 'Ruang Sidang Utama', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('RT-SIDANG-02', 'JR024', 'ADM045', 'INS057', 'Ruang Sidang Depan Depan', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('GRAHA', 'JR050', 'ADM046', 'INS057', 'Graha ITS', NULL, 'Tersedia'); --graha
+('GRAHA', 'JR050', 'ADM046', 'INS057', 'Graha ITS', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TM-101', 'JR001', 'ADM046', 'INS027', 'Kelas 101', NULL, 'Tersedia'); --mesin
+('TM-101', 'JR001', 'ADM046', 'INS027', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TM-102', 'JR001', 'ADM048', 'INS027', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
@@ -157,43 +157,43 @@ INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_i
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('LP-IN-4', 'JR005', 'ADM051', 'INS039', 'Tennis Meja', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TS-101', 'JR045', 'ADM052', 'INS013', 'Kelas 101 Smartclassroom', NULL, 'Tersedia'); --sipil
+('TS-101', 'JR045', 'ADM052', 'INS013', 'Kelas 101 Smartclassroom', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TS-102', 'JR045', 'ADM053', 'INS013', 'Kelas 102 Smartclassroom', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TS-103', 'JR045', 'ADM054', 'INS013', 'Kelas 103 Smartclassroom', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TE-101', 'JR001', 'ADM055', 'INS002', 'Kelas 101', NULL, 'Tersedia'); --elektro
+('TE-101', 'JR001', 'ADM055', 'INS002', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TE-102', 'JR001', 'ADM055', 'INS002', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TE-103', 'JR001', 'ADM055', 'INS002', 'Kelas 103', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TW1-601', 'JR001', 'ADM067', 'INS025', 'Kelas 601', NULL, 'Tersedia'); --tw1
+('TW1-601', 'JR001', 'ADM067', 'INS025', 'Kelas 601', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TW1-602', 'JR045', 'ADM052', 'INS025', 'Kelas 602', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('M-101A', 'JR045', 'ADM074', 'INS020', 'Kelas 101A', NULL, 'Tersedia'); --matematika
+('M-101A', 'JR045', 'ADM074', 'INS020', 'Kelas 101A', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('M-101B', 'JR001', 'ADM075', 'INS020', 'Kelas 101B', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('IF-109', 'JR001', 'ADM080', 'INS020', 'Kelas 109', NULL, 'Tersedia');
+('M-109', 'JR001', 'ADM080', 'INS020', 'Kelas 109', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('IF-110', 'JR001', 'ADM085', 'INS020', 'Kelas 110', NULL, 'Tersedia');
+('M-110', 'JR001', 'ADM085', 'INS020', 'Kelas 110', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TK-101', 'JR001', 'ADM096', 'INS038', 'Kelas 101', NULL, 'Tersedia'); --kelautna
+('TK-101', 'JR001', 'ADM096', 'INS038', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TK-102', 'JR001', 'ADM084', 'INS038', 'Kelas 102', NULL, 'Tersedia');
+('TKL-102', 'JR001', 'ADM084', 'INS038', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TK-103', 'JR001', 'ADM084', 'INS038', 'Kelas 103', NULL, 'Tersedia');
+('TKL-103', 'JR001', 'ADM084', 'INS038', 'Kelas 103', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('F-101', 'JR001', 'ADM086', 'INS019', 'Kelas 101', NULL, 'Tersedia'); --Fisika
+('F-101', 'JR001', 'ADM086', 'INS019', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('F-102', 'JR001', 'ADM086', 'INS019', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('F-103', 'JR001', 'ADM086', 'INS019', 'Kelas 103', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
-('TL-101', 'JR001', 'ADM084', 'INS017', 'Kelas 101', NULL, 'Tersedia'); --tekling
+('TL-101', 'JR001', 'ADM084', 'INS017', 'Kelas 101', NULL, 'Tersedia'); 
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
 ('TL-102', 'JR001', 'ADM084', 'INS017', 'Kelas 102', NULL, 'Tersedia');
 INSERT INTO ruangan (ruangan_id, ruangan_jenis_id, ruangan_myAdmin_id, ruangan_instansi_id, ruangan_nama, ruangan_img, ruangan_status) VALUES
