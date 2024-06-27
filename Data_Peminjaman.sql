@@ -288,3 +288,286 @@ VALUES ('P135', '5025211191','Ukm catur','2025-09-12','2025-09-12 08:00:00','202
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
 VALUES ('P136','5025221078','Asisten Dosen Dasprog','2025-09-25','2025-09-25 11:00:00','2025-09-25 14:00:00','Praktikum', 2,'Disetujui');
+
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P281', '5071221007', 'Asisten Dosen Teknik Mesin', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P282', '5012221008', 'Asisten Dosen Teknik Kimia', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P283', '5066221009', 'Asisten Dosen Teknik Kelautan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P284', '5028221010', 'Asisten Dosen Teknik Fisika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P285', '5037221011', 'Asisten Dosen Teknik Perkapalan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P286', '5041221012', 'Asisten Dosen Fisika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P287', '5042221013', 'Asisten Dosen Matematika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P288', '5043221014', 'Asisten Dosen Statistika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P289', '5044221015', 'Asisten Dosen Kimia', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P290', '5045221016', 'Asisten Dosen Biologi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P291', '5046221017', 'Asisten Dosen Aktuaria', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P292', '5047221018', 'Asisten Dosen Teknik Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P293', '5048221019', 'Asisten Dosen Arsitektur', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P294', '5049221020', 'Asisten Dosen Teknik Lingkungan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P295', '5050221021', 'Asisten Dosen Perencanaan Wilayah dan Kota', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P296', '5051221022', 'Asisten Dosen Teknik Geomatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P297', '5052221023', 'Asisten Dosen Teknik Geofisika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P298', '5053221024', 'Asisten Dosen Teknik Infrastruktur Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P299', '5054221025', 'Asisten Dosen Teknik Mesin Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P300', '5055221026', 'Asisten Dosen Teknik Elektro Otomasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P301', '5056221027', 'Asisten Dosen Teknik Kimia Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P302', '5057221028', 'Asisten Dosen Teknik Instrumentasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P303', '5058221029', 'Asisten Dosen Statistika Bisnis', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P304', '5059221030', 'Asisten Dosen Teknologi Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P305', '5060221031', 'Asisten Dosen Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P306', '5061221032', 'Asisten Dosen Pendidikan Profesi Dokter', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P307', '5062221033', 'Asisten Dosen Teknik Sistem dan Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P308', '5063221034', 'Asisten Dosen Teknik Informatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P309', '5064221035', 'Asisten Dosen Sistem Informasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P310', '5065221036', 'Asisten Dosen Teknik Komputer', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P311', '5066221037', 'Asisten Dosen Teknik Elektro', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P312', '5067221038', 'Asisten Dosen Teknik Biomedik', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P313', '5068221039', 'Asisten Dosen Teknologi Informasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P314', '5069221040', 'Asisten Dosen Desain Produk Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P315', '5070221041', 'Asisten Dosen Desain Interior', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P316', '5071221042', 'Asisten Dosen Desain Komunikasi Visual', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P317', '5072221043', 'Asisten Dosen Manajemen Bisnis', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P318', '5073221044', 'Asisten Dosen Studi Pembangunan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P319', '5074221045', 'Asisten Dosen Manajemen Teknologi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P320', '5075221046', 'Asisten Dosen Teknik Perkapalan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P321', '5076221047', 'Asisten Dosen Teknik Sistem Perkapalan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P322', '5077221048', 'Asisten Dosen Teknik Transportasi Laut', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P323', '5078221049', 'Asisten Dosen Teknik Kelautan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P324', '5079221050', 'Asisten Dosen Teknik Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P325', '5080221051', 'Asisten Dosen Arsitektur', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P326', '5081221052', 'Asisten Dosen Teknik Lingkungan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P327', '5082221053', 'Asisten Dosen Perencanaan Wilayah dan Kota', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P328', '5083221054', 'Asisten Dosen Teknik Geomatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P329', '5084221055', 'Asisten Dosen Teknik Geofisika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P330', '5085221056', 'Asisten Dosen Teknik Infrastruktur Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P331', '5086221057', 'Asisten Dosen Teknik Mesin Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P332', '5087221058', 'Asisten Dosen Teknik Elektro Otomasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P333', '5088221059', 'Asisten Dosen Teknik Kimia Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P334', '5089221060', 'Asisten Dosen Teknik Instrumentasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P335', '5090221061', 'Asisten Dosen Statistika Bisnis', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P336', '5091221062', 'Asisten Dosen Teknologi Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P337', '5092221063', 'Asisten Dosen Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P338', '5093221064', 'Asisten Dosen Pendidikan Profesi Dokter', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P339', '5094221065', 'Asisten Dosen Teknik Sistem dan Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P340', '5095221066', 'Asisten Dosen Teknik Informatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P341', '5096221067', 'Asisten Dosen Sistem Informasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P342', '5097221068', 'Asisten Dosen Teknik Komputer', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P343', '5098221069', 'Asisten Dosen Teknik Elektro', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P344', '5099221070', 'Asisten Dosen Teknik Biomedik', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P345', '5100221071', 'Asisten Dosen Teknologi Informasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P346', '5101221072', 'Asisten Dosen Desain Produk Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P347', '5102221073', 'Asisten Dosen Desain Interior', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P348', '5103221074', 'Asisten Dosen Desain Komunikasi Visual', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P349', '5104221075', 'Asisten Dosen Manajemen Bisnis', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P350', '5105221076', 'Asisten Dosen Studi Pembangunan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P351', '5106221077', 'Asisten Dosen Manajemen Teknologi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P352', '5107221078', 'Asisten Dosen Teknik Perkapalan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P353', '5108221079', 'Asisten Dosen Teknik Sistem Perkapalan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P354', '5109221080', 'Asisten Dosen Teknik Transportasi Laut', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P355', '5110221081', 'Asisten Dosen Teknik Kelautan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P356', '5111221082', 'Asisten Dosen Teknik Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P357', '5112221083', 'Asisten Dosen Arsitektur', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P358', '5113221084', 'Asisten Dosen Teknik Lingkungan', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P359', '5114221085', 'Asisten Dosen Perencanaan Wilayah dan Kota', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P360', '5115221086', 'Asisten Dosen Teknik Geomatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P361', '5116221087', 'Asisten Dosen Teknik Geofisika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P362', '5117221088', 'Asisten Dosen Teknik Infrastruktur Sipil', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P363', '5118221089', 'Asisten Dosen Teknik Mesin Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P364', '5119221090', 'Asisten Dosen Teknik Elektro Otomasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P365', '5120221091', 'Asisten Dosen Teknik Kimia Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P366', '5121221092', 'Asisten Dosen Teknik Instrumentasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P367', '5122221093', 'Asisten Dosen Statistika Bisnis', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P368', '5123221094', 'Asisten Dosen Teknologi Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P369', '5124221095', 'Asisten Dosen Kedokteran', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P370', '5125221096', 'Asisten Dosen Pendidikan Profesi Dokter', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P371', '5126221097', 'Asisten Dosen Teknik Sistem dan Industri', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P372', '5127221098', 'Asisten Dosen Teknik Informatika', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P373', '5128221099', 'Asisten Dosen Sistem Informasi', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P374', '5129221100', 'Asisten Dosen Teknik Komputer', '2025-04-25', '2025-04-25 07:00:00', '2025-04-25 16:00:00', 'Praktikum', 1, 'Disetujui');
