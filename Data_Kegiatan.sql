@@ -288,3 +288,285 @@ VALUES ('K00135', 'P135', 'KK004', 'Ukm catur', 'Sparring bulanan Ukm catur', NU
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
 VALUES ('K00136', 'P136', 'KK002', 'Asisten Dosen Dasprog', 'Praktikum Asisten Dosen Dasprog ', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00281', 'P281', 'KK001', 'kuliah Teknik Mesin', 'Kuliah mata kuliah Teknik Mesin.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00282', 'P282', 'KK002', 'praktikum Teknik Kimia', 'Praktikum mata kuliah Teknik Kimia.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00283', 'P283', 'KK002', 'praktikum Teknik Kelautan', 'Praktikum mata kuliah Teknik Kelautan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00284', 'P284', 'KK002', 'praktikum Teknik Fisika', 'Praktikum mata kuliah Teknik Fisika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00285', 'P285', 'KK002', 'praktikum Teknik Perkapalan', 'Praktikum mata kuliah Teknik Perkapalan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00286', 'P286', 'KK001', 'kuliah Fisika', 'Kuliah mata kuliah Fisika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00287', 'P287', 'KK001', 'kuliah Matematika', 'Kuliah mata kuliah Matematika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00288', 'P288', 'KK001', 'kuliah Statistika', 'Kuliah mata kuliah Statistika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00289', 'P289', 'KK001', 'kuliah Kimia', 'Kuliah mata kuliah Kimia.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00290', 'P290', 'KK001', 'kuliah Biologi', 'Kuliah mata kuliah Biologi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00291', 'P291', 'KK001', 'kuliah Aktuaria', 'Kuliah mata kuliah Aktuaria.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00292', 'P292', 'KK001', 'kuliah Teknik Sipil', 'Kuliah mata kuliah Teknik Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00293', 'P293', 'KK001', 'kuliah Arsitektur', 'Kuliah mata kuliah Arsitektur.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00294', 'P294', 'KK001', 'kuliah Teknik Lingkungan', 'Kuliah mata kuliah Teknik Lingkungan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00295', 'P295', 'KK001', 'kuliah Perencanaan Wilayah dan Kota', 'Kuliah mata kuliah Perencanaan Wilayah dan Kota.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00296', 'P296', 'KK001', 'kuliah Teknik Geomatika', 'Kuliah mata kuliah Teknik Geomatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00297', 'P297', 'KK001', 'kuliah Teknik Geofisika', 'Kuliah mata kuliah Teknik Geofisika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00298', 'P298', 'KK001', 'kuliah Teknik Infrastruktur Sipil', 'Kuliah mata kuliah Teknik Infrastruktur Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00299', 'P299', 'KK001', 'kuliah Teknik Mesin Industri', 'Kuliah mata kuliah Teknik Mesin Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00300', 'P300', 'KK001', 'kuliah Teknik Elektro Otomasi', 'Kuliah mata kuliah Teknik Elektro Otomasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00301', 'P301', 'KK001', 'kuliah Teknik Kimia Industri', 'Kuliah mata kuliah Teknik Kimia Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00302', 'P302', 'KK001', 'kuliah Teknik Instrumentasi', 'Kuliah mata kuliah Teknik Instrumentasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00303', 'P303', 'KK001', 'kuliah Statistika Bisnis', 'Kuliah mata kuliah Statistika Bisnis.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00304', 'P304', 'KK001', 'kuliah Teknologi Kedokteran', 'Kuliah mata kuliah Teknologi Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00305', 'P305', 'KK001', 'kuliah Kedokteran', 'Kuliah mata kuliah Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00306', 'P306', 'KK001', 'kuliah Pendidikan Profesi Dokter', 'Kuliah mata kuliah Pendidikan Profesi Dokter.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00307', 'P307', 'KK001', 'kuliah Teknik Sistem dan Industri', 'Kuliah mata kuliah Teknik Sistem dan Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00308', 'P308', 'KK001', 'kuliah Teknik Informatika', 'Kuliah mata kuliah Teknik Informatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00309', 'P309', 'KK001', 'kuliah Sistem Informasi', 'Kuliah mata kuliah Sistem Informasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00310', 'P310', 'KK001', 'kuliah Teknik Komputer', 'Kuliah mata kuliah Teknik Komputer.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00311', 'P311', 'KK001', 'kuliah Teknik Elektro', 'Kuliah mata kuliah Teknik Elektro.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00312', 'P312', 'KK001', 'kuliah Teknik Biomedik', 'Kuliah mata kuliah Teknik Biomedik.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00313', 'P313', 'KK001', 'kuliah Teknologi Informasi', 'Kuliah mata kuliah Teknologi Informasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00314', 'P314', 'KK001', 'kuliah Desain Produk Industri', 'Kuliah mata kuliah Desain Produk Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00315', 'P315', 'KK001', 'kuliah Desain Interior', 'Kuliah mata kuliah Desain Interior.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00316', 'P316', 'KK001', 'kuliah Desain Komunikasi Visual', 'Kuliah mata kuliah Desain Komunikasi Visual.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00317', 'P317', 'KK001', 'kuliah Manajemen Bisnis', 'Kuliah mata kuliah Manajemen Bisnis.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00318', 'P318', 'KK001', 'kuliah Studi Pembangunan', 'Kuliah mata kuliah Studi Pembangunan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00319', 'P319', 'KK001', 'kuliah Manajemen Teknologi', 'Kuliah mata kuliah Manajemen Teknologi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00320', 'P320', 'KK002', 'praktikum Teknik Perkapalan', 'Praktikum mata kuliah Teknik Perkapalan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00321', 'P321', 'KK002', 'praktikum Teknik Sistem Perkapalan', 'Praktikum mata kuliah Teknik Sistem Perkapalan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00322', 'P322', 'KK002', 'praktikum Teknik Transportasi Laut', 'Praktikum mata kuliah Teknik Transportasi Laut.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00323', 'P323', 'KK002', 'praktikum Teknik Kelautan', 'Praktikum mata kuliah Teknik Kelautan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00324', 'P324', 'KK001', 'kuliah Teknik Sipil', 'Kuliah mata kuliah Teknik Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00325', 'P325', 'KK001', 'kuliah Arsitektur', 'Kuliah mata kuliah Arsitektur.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00326', 'P326', 'KK001', 'kuliah Teknik Lingkungan', 'Kuliah mata kuliah Teknik Lingkungan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00327', 'P327', 'KK001', 'kuliah Perencanaan Wilayah dan Kota', 'Kuliah mata kuliah Perencanaan Wilayah dan Kota.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00328', 'P328', 'KK001', 'kuliah Teknik Geomatika', 'Kuliah mata kuliah Teknik Geomatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00329', 'P329', 'KK001', 'kuliah Teknik Geofisika', 'Kuliah mata kuliah Teknik Geofisika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00330', 'P330', 'KK001', 'kuliah Teknik Infrastruktur Sipil', 'Kuliah mata kuliah Teknik Infrastruktur Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00331', 'P331', 'KK001', 'kuliah Teknik Mesin Industri', 'Kuliah mata kuliah Teknik Mesin Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00332', 'P332', 'KK001', 'kuliah Teknik Elektro Otomasi', 'Kuliah mata kuliah Teknik Elektro Otomasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00333', 'P333', 'KK001', 'kuliah Teknik Kimia Industri', 'Kuliah mata kuliah Teknik Kimia Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00334', 'P334', 'KK001', 'kuliah Teknik Instrumentasi', 'Kuliah mata kuliah Teknik Instrumentasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00335', 'P335', 'KK001', 'kuliah Statistika Bisnis', 'Kuliah mata kuliah Statistika Bisnis.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00336', 'P336', 'KK001', 'kuliah Teknologi Kedokteran', 'Kuliah mata kuliah Teknologi Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00337', 'P337', 'KK001', 'kuliah Kedokteran', 'Kuliah mata kuliah Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00338', 'P338', 'KK001', 'kuliah Pendidikan Profesi Dokter', 'Kuliah mata kuliah Pendidikan Profesi Dokter.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00339', 'P339', 'KK001', 'kuliah Teknik Sistem dan Industri', 'Kuliah mata kuliah Teknik Sistem dan Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00340', 'P340', 'KK001', 'kuliah Teknik Informatika', 'Kuliah mata kuliah Teknik Informatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00341', 'P341', 'KK001', 'kuliah Sistem Informasi', 'Kuliah mata kuliah Sistem Informasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00342', 'P342', 'KK001', 'kuliah Teknik Komputer', 'Kuliah mata kuliah Teknik Komputer.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00343', 'P343', 'KK001', 'kuliah Teknik Elektro', 'Kuliah mata kuliah Teknik Elektro.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00344', 'P344', 'KK001', 'kuliah Teknik Biomedik', 'Kuliah mata kuliah Teknik Biomedik.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00345', 'P345', 'KK001', 'kuliah Teknologi Informasi', 'Kuliah mata kuliah Teknologi Informasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00346', 'P346', 'KK001', 'kuliah Desain Produk Industri', 'Kuliah mata kuliah Desain Produk Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00347', 'P347', 'KK001', 'kuliah Desain Interior', 'Kuliah mata kuliah Desain Interior.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00348', 'P348', 'KK001', 'kuliah Desain Komunikasi Visual', 'Kuliah mata kuliah Desain Komunikasi Visual.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00349', 'P349', 'KK001', 'kuliah Manajemen Bisnis', 'Kuliah mata kuliah Manajemen Bisnis.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00350', 'P350', 'KK001', 'kuliah Studi Pembangunan', 'Kuliah mata kuliah Studi Pembangunan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00351', 'P351', 'KK001', 'kuliah Manajemen Teknologi', 'Kuliah mata kuliah Manajemen Teknologi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00352', 'P352', 'KK002', 'praktikum Teknik Perkapalan', 'Praktikum mata kuliah Teknik Perkapalan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00353', 'P353', 'KK002', 'praktikum Teknik Sistem Perkapalan', 'Praktikum mata kuliah Teknik Sistem Perkapalan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00354', 'P354', 'KK002', 'praktikum Teknik Transportasi Laut', 'Praktikum mata kuliah Teknik Transportasi Laut.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00355', 'P355', 'KK002', 'praktikum Teknik Kelautan', 'Praktikum mata kuliah Teknik Kelautan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00356', 'P356', 'KK001', 'kuliah Teknik Sipil', 'Kuliah mata kuliah Teknik Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00357', 'P357', 'KK001', 'kuliah Arsitektur', 'Kuliah mata kuliah Arsitektur.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00358', 'P358', 'KK001', 'kuliah Teknik Lingkungan', 'Kuliah mata kuliah Teknik Lingkungan.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00359', 'P359', 'KK001', 'kuliah Perencanaan Wilayah dan Kota', 'Kuliah mata kuliah Perencanaan Wilayah dan Kota.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00360', 'P360', 'KK001', 'kuliah Teknik Geomatika', 'Kuliah mata kuliah Teknik Geomatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00361', 'P361', 'KK001', 'kuliah Teknik Geofisika', 'Kuliah mata kuliah Teknik Geofisika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00362', 'P362', 'KK001', 'kuliah Teknik Infrastruktur Sipil', 'Kuliah mata kuliah Teknik Infrastruktur Sipil.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00363', 'P363', 'KK001', 'kuliah Teknik Mesin Industri', 'Kuliah mata kuliah Teknik Mesin Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00364', 'P364', 'KK001', 'kuliah Teknik Elektro Otomasi', 'Kuliah mata kuliah Teknik Elektro Otomasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00365', 'P365', 'KK001', 'kuliah Teknik Kimia Industri', 'Kuliah mata kuliah Teknik Kimia Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00366', 'P366', 'KK001', 'kuliah Teknik Instrumentasi', 'Kuliah mata kuliah Teknik Instrumentasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00367', 'P367', 'KK001', 'kuliah Statistika Bisnis', 'Kuliah mata kuliah Statistika Bisnis.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00368', 'P368', 'KK001', 'kuliah Teknologi Kedokteran', 'Kuliah mata kuliah Teknologi Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00369', 'P369', 'KK001', 'kuliah Kedokteran', 'Kuliah mata kuliah Kedokteran.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00370', 'P370', 'KK001', 'kuliah Pendidikan Profesi Dokter', 'Kuliah mata kuliah Pendidikan Profesi Dokter.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00371', 'P371', 'KK001', 'kuliah Teknik Sistem dan Industri', 'Kuliah mata kuliah Teknik Sistem dan Industri.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00372', 'P372', 'KK001', 'kuliah Teknik Informatika', 'Kuliah mata kuliah Teknik Informatika.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00373', 'P373', 'KK001', 'kuliah Sistem Informasi', 'Kuliah mata kuliah Sistem Informasi.', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00374', 'P374', 'KK001', 'kuliah Teknik Komputer', 'Kuliah mata kuliah Teknik Komputer.', NULL);
