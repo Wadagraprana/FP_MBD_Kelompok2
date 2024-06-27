@@ -98,3 +98,4 @@ INSERT INTO myAdmin (myAdmin_id, myAdmin_jabatan_id, myAdmin_instansi_id, myAdmi
 INSERT INTO myAdmin (myAdmin_id, myAdmin_jabatan_id, myAdmin_instansi_id, myAdmin_nama, myAdmin_email, myAdmin_password) VALUES ('ADM098', 'JB001', 'INS002', 'Emily Robinson', 'emilyrobinson@outlook.com', 'nNG2meMJ');
 INSERT INTO myAdmin (myAdmin_id, myAdmin_jabatan_id, myAdmin_instansi_id, myAdmin_nama, myAdmin_email, myAdmin_password) VALUES ('ADM099', 'JB009', 'INS002', 'Daniel Taylor', 'danieltaylor@mail.com', 'Xd3uk8Ds');
 INSERT INTO myAdmin (myAdmin_id, myAdmin_jabatan_id, myAdmin_instansi_id, myAdmin_nama, myAdmin_email, myAdmin_password) VALUES ('ADM100', 'JB003', 'INS007', 'Ella Anderson', 'ellaanderson@outlook.com', 'Qe7KgtL4');
+
