@@ -9,7 +9,7 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS008', 'Program Studi Sistem Informasi', 'si@its.ac.id', '031-5994258'),
 ('INS009', 'Program Studi Teknik Telekomunikasi', 'tt@its.ac.id', '031-5994259'),
 ('INS010', 'Program Studi Teknik Komputer', 'tk@its.ac.id', '031-5994260'),
-('INS011', 'Program Studi Inovasi Digital', 'id@its.ac.id', '031-5994261');
+('INS011', 'Program Studi Inovasi Digital', 'id@its.ac.id', '031-5994261'),
 
 ('INS012', 'Fakultas Teknik Sipil dan Perencanaan Kebumian', 'ftspk@its.ac.id', '031-5994262'),
 ('INS013', 'Program Studi Teknik Sipil', 'ts@its.ac.id', '031-5994263'),
@@ -17,14 +17,14 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS015', 'Program Studi Arsitektur', 'ar@its.ac.id', '031-5994265'),
 ('INS016', 'Program Studi Teknik Geomatika', 'tg@its.ac.id', '031-5994266'),
 ('INS017', 'Program Studi Teknik Lingkungan', 'tl@its.ac.id', '031-5994267'),
-('INS018', 'Program Studi Teknik Geofisika', 'tgf@its.ac.id', '031-5994268');
+('INS018', 'Program Studi Teknik Geofisika', 'tgf@its.ac.id', '031-5994268'),
 
 ('INS019', 'Program Studi Fisika', 'fisika@its.ac.id', '031-5994269'),
 ('INS020', 'Program Studi Matematika', 'matematika@its.ac.id', '031-5994270'),
 ('INS021', 'Program Studi Statistika', 'statistika@its.ac.id', '031-5994271'),
 ('INS022', 'Program Studi Kimia', 'kimia@its.ac.id', '031-5994272'),
 ('INS023', 'Program Studi Biologi', 'biologi@its.ac.id', '031-5994273'),
-('INS024', 'Program Studi Aktuaria', 'aktuaria@its.ac.id', '031-5994274');
+('INS024', 'Program Studi Aktuaria', 'aktuaria@its.ac.id', '031-5994274'),
 ('INS025', 'Fakultas Sains dan Analisis Data', 'fsad@its.ac.id', '031-5994268'),
 
 ('INS026', 'Fakultas Teknologi Industri dan Rekayasa Sistem', 'ftirs@its.ac.id', '031-5994275'),
@@ -33,27 +33,27 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS029', 'Program Studi Teknik Kimia', 'kimia@its.ac.id', '031-5994278'),
 ('INS030', 'Program Studi Teknik Material dan Metalurgi', 'material@its.ac.id', '031-5994279'),
 ('INS031', 'Program Studi Teknik Fisika', 'fisika@its.ac.id', '031-5994280'),
-('INS032', 'Program Studi Teknik Pangan', 'pangan@its.ac.id', '031-5994281');
+('INS032', 'Program Studi Teknik Pangan', 'pangan@its.ac.id', '031-5994281'),
 
 ('INS033', 'Fakultas Teknologi Kelautan', 'ftk@its.ac.id', '031-5994282'),
 ('INS034', 'Program Studi Teknik Perkapalan', 'perkapalan@its.ac.id', '031-5994283'),
 ('INS035', 'Program Studi Teknik Transportasi Laut', 'transportasilaut@its.ac.id', '031-5994284'),
 ('INS036', 'Program Studi Teknik Sistem Perkapalan', 'sistemperkapalan@its.ac.id', '031-5994285'),
 ('INS037', 'Program Studi Teknik Lepas Pantai', 'lepaspantai@its.ac.id', '031-5994286'),
-('INS038', 'Program Studi Teknik Kelautan', 'kelautan@its.ac.id', '031-5994287');
+('INS038', 'Program Studi Teknik Kelautan', 'kelautan@its.ac.id', '031-5994287'),
 
 ('INS039', 'Fakultas Vokasi - Teknik Infrastruktur Sipil', 'vokasi@its.ac.id', '031-5994300'),
 ('INS040', 'Program Studi Teknik Kimia Industri', 'kimia.industri@its.ac.id', '031-5994301'),
 ('INS041', 'Program Studi Teknik Mesin Industri', 'mesin.industri@its.ac.id', '031-5994302'),
 ('INS042', 'Program Studi Teknik Instrumentasi', 'instrumentasi@its.ac.id', '031-5994303'),
 ('INS043', 'Program Studi Teknik Elektro Otomasi', 'elektro.otomasi@its.ac.id', '031-5994304'),
-('INS044', 'Program Studi Statistika Bisnis', 'statistika.bisnis@its.ac.id', '031-5994305');
+('INS044', 'Program Studi Statistika Bisnis', 'statistika.bisnis@its.ac.id', '031-5994305'),
 
 ('INS045', 'Fakultas Desain Kreatif', 'desain.kreatif@its.ac.id', '031-5994306'),
 ('INS046', 'Program Studi Desain Interior', 'desain.interior@its.ac.id', '031-5994310'),
 ('INS047', 'Program Studi Desain Komunikasi Visual', 'desain.komunikasi.visual@its.ac.id', '031-5994311'),
 ('INS048', 'Program Studi Manajemen Bisnis', 'manajemen.bisnis@its.ac.id', '031-5994312'),
-('INS049', 'Program Studi Studi Pembangunan', 'studi.pembangunan@its.ac.id', '031-5994313');
+('INS049', 'Program Studi Studi Pembangunan', 'studi.pembangunan@its.ac.id', '031-5994313'),
 
 
 ('INS050', 'Program S2 Manajemen Teknologi', 's2.manajemen.teknologi@its.ac.id', '031-5994314'),
@@ -62,7 +62,7 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS053', 'Program S3 Inovasi Sistem dan Teknologi', 's3.inovasi.sistem.teknologi@its.ac.id', '031-5994317'),
 ('INS054', 'Program Profesi Insinyur', 'profesi.insinyur@its.ac.id', '031-5994318'),
 ('INS055', 'Program Executive Education ITS', 'executive.education@its.ac.id', '031-5994319'),
-('INS056', 'Sekolah Interdisiplin Manajemen dan Teknologi', 'interdisiplin.manajemen.teknologi@its.ac.id', '031-5994320');
+('INS056', 'Sekolah Interdisiplin Manajemen dan Teknologi', 'interdisiplin.manajemen.teknologi@its.ac.id', '031-5994320'),
 
 
 ('INS056', 'Pengelolaan Sarpras', 'divisi.keuangan@its.ac.id', '031-5999200'),
@@ -104,7 +104,7 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS081', 'Direktur Kerjasama dan Pengelolaan Usaha', 'dirkerjasamapengelolaan@its.ac.id', '031-5998899'),
 ('INS082', 'Pengelolaan Usaha Mandiri', 'manajerseniorusahamandiri@its.ac.id', '031-5998888'),
 ('INS083', 'Biro Pelaksanaan Teknis', 'manajerpelaksanaan@its.ac.id', '031-5998877'),
-('INS084', 'Pengelolaan Kerjasama', 'manajerkerjasama@its.ac.id', '031-5998866');
+('INS084', 'Pengelolaan Kerjasama', 'manajerkerjasama@its.ac.id', '031-5998866'),
 
 
 ('INS085', 'Divisi Pengembangan Karir dan Alumni', 'divisi.karirdanalumni@its.ac.id', '031-5994321'),
