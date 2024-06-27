@@ -44,7 +44,7 @@ CREATE TABLE Kegiatan (
 );
 
 CREATE TABLE instansi (
-    instansi_id CHAR(4) NOT NULL PRIMARY KEY,
+    instansi_id CHAR(6) NOT NULL PRIMARY KEY,
     instansi_name VARCHAR(50) NOT NULL,
     instansi_email VARCHAR(50) NOT NULL,
     instansi_telp  VARCHAR(50) NOT NULL
@@ -53,7 +53,7 @@ CREATE TABLE instansi (
 CREATE TABLE myAdmin (
     myAdmin_id CHAR(6) NOT NULL PRIMARY KEY,
     myAdmin_jabatan_id CHAR(5) NOT NULL,
-    myAdmin_instansi_id CHAR(4) NOT NULL,
+    myAdmin_instansi_id CHAR(6) NOT NULL,
     myAdmin_nama VARCHAR(50) NOT NULL,
     myAdmin_email VARCHAR(50) NOT NULL,
     myAdmin_password VARCHAR(50) NOT NULL,
@@ -70,7 +70,7 @@ CREATE TABLE ruangan (
     ruangan_id VARCHAR(11) NOT NULL PRIMARY KEY,
     ruangan_jenis_id CHAR(5) NOT NULL,
     ruangan_myAdmin_id CHAR(6) NOT NULL,
-    ruangan_instansi_id CHAR(4) NOT NULL,
+    ruangan_instansi_id CHAR(6) NOT NULL,
     ruangan_nama VARCHAR(100) NOT NULL,
     ruangan_img VARCHAR(200),
     ruangan_status VARCHAR(200),
