@@ -1,5 +1,4 @@
-INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp) VALUES
-('INS001', 'Fakultas Teknologi Elektro dan Informatika Cerdas', 'fteic@its.ac.id', '031-5994251'),
+ ('INS001', 'Fakultas Teknologi Elektro dan Informatika Cerdas', 'fteic@its.ac.id', '031-5994251'),
 ('INS002', 'Program Studi Teknik Elektro', 'te@its.ac.id', '031-5994252'),
 ('INS003', 'Program Studi Teknik Biomedik', 'tb@its.ac.id', '031-5994253'),
 ('INS004', 'Program Studi Rekayasa Perangkat Lunak', 'rpl@its.ac.id', '031-5994254'),
@@ -62,20 +61,18 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS053', 'Program S3 Inovasi Sistem dan Teknologi', 's3.inovasi.sistem.teknologi@its.ac.id', '031-5994317'),
 ('INS054', 'Program Profesi Insinyur', 'profesi.insinyur@its.ac.id', '031-5994318'),
 ('INS055', 'Program Executive Education ITS', 'executive.education@its.ac.id', '031-5994319'),
-('INS106', 'Sekolah Interdisiplin Manajemen dan Teknologi', 'interdisiplin.manajemen.teknologi@its.ac.id', '031-5994320'),
+('INS056', 'Sekolah Interdisiplin Manajemen dan Teknologi', 'interdisiplin.manajemen.teknologi@its.ac.id', '031-5994320'),
 
 
-('INS056', 'Pengelolaan Sarpras', 'divisi.keuangan@its.ac.id', '031-5999200'),
-('INS057', 'Pemeliharaan Sarana', 'kasubbagpemeliharaansarana@its.ac.id', '031-5999299'),
-('INS058', 'Pemeliharaan Prasarana dan Ruang Terbuka Hijau', 'kasubbagpemeliharaanprasaranart@its.ac.id', '031-5999288'),
-('INS059', 'Logistik dan Keamanan', 'kabaglogistikkeamanan@its.ac.id', '031-5999277'),
-('INS060', 'Keamanan Kampus', 'kasatkeamanankampus@its.ac.id', '031-5999266'),
-('INS061', 'Layanan Logistik Transportasi', 'kasubbaglogistiktransportasi@its.ac.id', '031-5999255'),
-('INS062', 'Biro Keuangan', 'kabirokeuangan@its.ac.id', '031-5999244'),
-('INS063', 'Perbendaharaan', 'kabagperbendaharaan@its.ac.id', '031-5999233'),
-('INS064', 'Divisi Layanan Kepegawaian', 'divisi.layanankepegawaian@its.ac.id', '031-5999100'),
-('INS065', 'Direktur Pengembangan Teknologi dan Sistem Informasi', 'dirpengembanganTI@its.ac.id', '031-5999144'),
-('INS066', 'Kepala Unit Pengembangan Smart Eco Campus', 'kepalaunitsec@its.ac.id', '031-5999133'),
+
+('INS057', 'Divisi SDM Organisasi', 'divisi.sdmorganisasi@its.ac.id', '031-5999155'),
+('INS060', 'Kasubdit Pengembangan Evaluasi Organisasi', 'kasubditpengembanganevaluasi@its.ac.id', '031-5999122'),
+('INS061', 'Kasubdit Pengembangan Evaluasi SDM', 'kasubditpengembangansdm@its.ac.id', '031-5999111'),
+('INS063', 'Kasubdit Infrastruktur Keamanan TIK', 'kasubditkeamanantik@its.ac.id', '031-5999077'),
+('INS064', 'Kasubdit Pengelolaan Teknologi Big Data', 'kasubditbigdata@its.ac.id', '031-5999066'),
+('INS065', 'Kasubdit Aplikasi Platform Digital', 'kasubditaplikasidigital@its.ac.id', '031-5999055'),
+('INS066', 'Kepala Seksi Implementasi Keintegrasian Aplikasi', 'kasekimplementasi@its.ac.id', '031-5999044'),
+
 
 ('INS067', 'Divisi Layanan TSI dan Implementasi Teknologi Cerdas', 'kasubditimplementasitsc@its.ac.id', '031-5999033'),
 ('INS068', 'Biro Hubungan Pelanggan dan Perencanaan Bisnis', 'kasekpelanggan@its.ac.id', '031-5999022'),
@@ -117,3 +114,7 @@ INSERT INTO Instansi (Instansi_id, Instansi_name, Instansi_email, Instansi_telp)
 ('INS102', 'Pusat Studi Teknik Lingkungan', 'pusat.tl@its.ac.id', '031-5994338'),
 ('INS103', 'Pusat Studi Teknik Geofisika', 'pusat.tgf@its.ac.id', '031-5994339'),
 ('INS104', 'Pusat Studi Fisika', 'pusat.fisika@its.ac.id', '031-5994340');
+
+
+
+
