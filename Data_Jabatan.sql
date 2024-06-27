@@ -77,7 +77,7 @@ INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB076', 'Kasubdit_Aplika
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB077', 'Kasek_Implementasi_Keintegrasian_Aplikasi');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB078', 'Kasubdit_Layanan_TSI_dan_Implementasi_Teknologi_Cerdas');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB079', 'Kasek_Hubungan_Pelanggan_dana_Perencanaan_Bisnis');
-INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB070', 'Direktur_Riset_dana_PengMas');
+INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB080', 'Direktur_Riset_dana_PengMas');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB081', 'Kasubdit_Riset_Publikasi_Ilmiah');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB082', 'Kepala_Pusat_Publikasi_Ilmiah');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB083', 'Kepala_Pusat_Penelitian_dan_PUI');
@@ -131,4 +131,3 @@ INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB130', 'Sekertaris_Depa
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB131', 'Bendahara_Departemen');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB132', 'Komite_Perlindungan_Departemen');
 INSERT INTO jabatan (jabatan_id, jabatan_nama) VALUES ('JB133', 'Tenaga_Kependidikan_Departemen');
-
