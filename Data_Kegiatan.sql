@@ -237,3 +237,48 @@ VALUES ('K00079', 'P079', 'KK001', 'Kelas Pengganti', 'Kelas Pengganti Matdis', 
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
 VALUES ('K00080', 'P080', 'KK005', 'Diskusi', 'Diskusi dan Pembuatan Desain UI/UX', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00266', 'P266', 'KK001', 'Panitia MabaCUP', 'Rapat Komunal Panitia MabaCUP ', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00267', 'P267', 'KK001', 'HMTM', 'Rapat Komunal HMTM', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00268', 'P268', 'KK003', 'Seminar bisnis', 'Seminar bisnis annual ke-10 ', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00269', 'P269', 'KK001', 'Panitia Mabacup', 'Rapat komunal Panitia Mabacup ', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00270', 'P270', 'KK003', 'UKM Flagfootball', 'Welcome party UKM Flagfootball angkatan 2023', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00271', 'P271', 'KK005', 'Event', 'Menjalankan Salah Satu Event Schematics', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00272', 'P272', 'KK001', 'ETS Teori Graf', 'Evaluasi Tengah Semester Teori Graf', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00273', 'P273', 'KK001', 'Quiz Alin','Quiz 4 Aljabar Linear', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00274', 'P274', 'KK001', 'Quiz Alin', 'Quiz 4 Aljabar Linear', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00275', 'P275', 'KK005', 'Diskusi Web Development', 'Diskusi dan Perancangan Web Development secara langsung', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00276', 'P276', 'KK004', 'Event', 'Rapat untuk seluruh anggota Schematics', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00277', 'P277', 'KK001', 'Kelas Pengganti', 'Kelas Pengganti Matdis', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00278', 'P278', 'KK005', 'Diskusi', 'Diskusi dan Perancangan Game Development secara langsung', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00279', 'P279', 'KK001', 'Kelas Pengganti', 'Kelas Pengganti Matdis', NULL);
+
+INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
+VALUES ('K00280', 'P280', 'KK005', 'Diskusi', 'Diskusi dan Pembuatan Desain UI/UX', NULL);
