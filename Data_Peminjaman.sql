@@ -237,3 +237,54 @@ VALUES ('P079','3025221210','Departemen Teknik Informatika','2024-01-21','2024-0
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
 VALUES ('P080','5030221001','Klub Desain','2024-01-25','2024-01-25 07:00:00','2024-01-25 10:00:00','Diskusi',1,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P120','U000000002','Pt. Best','2025-09-19','2025-09-19 09:00:00','2025-09-19 15:00:00','Seminar',1,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P121', '5025221270', 'Schematics', '2025-09-02', '2025-09-02 13:00:00', '2025-09-02 15:00:00', 'Diskusi Bulanan', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P122','5025221001','HMIF','2025-12-20','2025-12-20 09:00:00','2025-12-20 12:00:00','Presentasi hasil penelitian',1,'Menunggu Konfirmasi');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P123','5025221003','Klub Debat FIK','2025-12-22','2025-12-22 19:00:00','2025-12-22 22:00:00','Persiapan lomba debat',2,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P124','5025221004','KPA','2025-12-23','2025-12-23 07:00:00','2025-12-23 09:00:00','Membahas Pendakian Marapi',1,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P125','5025221002','UKM Robotik','2025-12-27','2025-12-27 13:00:00','2025-12-27 17:00:00','Latihan rutin',1,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P126','5025221001','KM Sulawesi Selatan','2025-12-28','2025-12-28 15:00:00','2025-12-28 18:00:00','Perayaan Natal',2,'Ditolak');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P127','5025221005','UKM Teater','2025-12-29','2025-12-29 21:00:00','2025-12-30 00:00:00','Pertunjukan teater',1,'Menunggu Konfirmasi');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P128','5025221003','HMIF','2025-09-03','2025-09-03 09:00:00','2025-09-03 12:00:00','Seminar alumni',2,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P129','5025221006','UKM Olahraga','2025-09-04','2025-09-04 13:00:00','2025-09-04 17:00:00','Rapat Turnamen bola basket',3,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P130','5025221002','Klub Debat FIK','2025-09-05','2025-09-05 19:00:00','2025-09-05 22:00:00','Diskusi panel',2,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P131','5025221004','KPA','2025-09-06','2025-09-06 07:00:00','2025-09-06 10:00:00','Bakti sosial',1,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P132','5026221072','Schematics ','2025-09-10','2025-09-10 13:00:00','2025-09-10 16:00:00','Rapat Komunal',2,'Menunggu Konfirmasi');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P133','5007211109','Seminar Data science','2025-09-05','2025-09-05 10:00:00','2025-09-05 12:00:00','Seminar',1,'Ditolak');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P134','5007210912','ILITS','2025-09-20','2025-09-20 14:00:00','2025-09-20 17:00:00','Rapat',2,'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P135', '5025211191','Ukm catur','2025-09-12','2025-09-12 08:00:00','2025-09-12 11:00:00','Sparring bulanan',1,'Ditolak');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P136','5025221078','Asisten Dosen Dasprog','2025-09-25','2025-09-25 11:00:00','2025-09-25 14:00:00','Praktikum', 2,'Disetujui');
