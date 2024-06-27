@@ -102,3 +102,25 @@ INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, use
 VALUES ('5011221010', 'JB01', 'Robin Hut', 'Teknik Material dan Metalurgi', 'FTIRS', '085809568135', 'robi@gmail.com');
 INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
 VALUES ('5011221011', 'JB01', 'Tyo Mastar', 'Teknik Material dan Metalurgi', 'FTIRS', '085608268135', 'tyo@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('U000000002', 'JB03','Abraham', 'Google.com', NULL, '08123456716', 'abr@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('U000000003', 'JB03', 'Umar', 'PT. Best', NULL, '08567890702', 'umarr@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('3029221003', 'JB02', 'Hazard', 'Desain Interior', 'FTE', '087891123346', 'hzz@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('3014221004', 'JB02', 'Messi', 'Teknik Lingkungan', 'FTSPK', '081557906268', 'mssi@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('3014221005', 'JB02', 'Lionel', 'Teknik Lingkungan', 'FTSPK', '081012345738', 'lnl@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5007221006', 'JB01', 'Cristian', 'Teknik Mesin', 'FTSPK', '085190249813', 'cr@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5007221007', 'JB01', 'Riansyah', 'Teknik Mesin', 'FTIRS', '087894134530', 'rann@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5011221008', 'JB01', 'Ubay', 'Teknik Material dan Metalurgi', 'FTIRS', '086363135790', 'ubayy@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5020221009', 'JB01', 'Jacob', 'Teknik Kelautan', 'FTK', '089161416789', 'jb@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5020221010', 'JB01', 'Bruce', 'Teknik Kelautan', 'FTK', '085309568135', 'bruce@gmail.com');
+INSERT INTO users (users_id, users_jabatan_id, users_nama, users_departemen, users_fakultas, users_noTelp, users_email)
+VALUES ('5018221011', 'JB01', 'Wayne', 'Teknik Perkapalan', 'FTK', '081608268135', 'wayn@gmail.com');
