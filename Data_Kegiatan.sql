@@ -248,43 +248,43 @@ INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, 
 VALUES ('K00122', 'P122', 'KK003', 'Presentasi Hasil Penelitian', 'Presentasi hasil penelitian mahasiswa Teknik Informatika', 'https://www.example.com/img/presentasi-hasil-penelitian.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000123', 'P123', 'KK003', 'Persiapan Lomba Debat', 'Persiapan lomba debat antar mahasiswa Fakultas Ilmu Komputer', 'https://www.example.com/img/persiapan-lomba-debat.jpg');
+VALUES ('K00123', 'P123', 'KK003', 'Persiapan Lomba Debat', 'Persiapan lomba debat antar mahasiswa Fakultas Ilmu Komputer', 'https://www.example.com/img/persiapan-lomba-debat.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000124', 'P124', 'KK004', 'Membahas Pendakian Marapi', 'Pendakian gunung bagi mahasiswa KPA', 'https://www.example.com/img/pendakian-gunung.jpg');
+VALUES ('K00124', 'P124', 'KK004', 'Membahas Pendakian Marapi', 'Pendakian gunung bagi mahasiswa KPA', 'https://www.example.com/img/pendakian-gunung.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
 VALUES ('K00125', 'P125', 'KK005', 'Latihan Rutin', 'Latihan rutin tim robotik mahasiswa Teknik Informatika', 'https://www.example.com/img/latihan-rutin-robotik.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000126', 'P126', 'KK005', 'Perayaan Natal', 'Perayaan Natal bagi mahasiswa KM Sulawesi Selatan', 'https://www.example.com/img/perayaan-natal.jpg');
+VALUES ('K00126', 'P126', 'KK005', 'Perayaan Natal', 'Perayaan Natal bagi mahasiswa KM Sulawesi Selatan', 'https://www.example.com/img/perayaan-natal.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000127', 'P127', 'KK005', 'Pertunjukan Teater', 'Pertunjukan teater oleh mahasiswa UKM Teater', 'https://www.example.com/img/pertunjukan-teater.jpg');
+VALUES ('K00127', 'P127', 'KK005', 'Pertunjukan Teater', 'Pertunjukan teater oleh mahasiswa UKM Teater', 'https://www.example.com/img/pertunjukan-teater.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000128', 'P128', 'KK003', 'Seminar Alumni', 'Seminar alumni Teknik Informatika', 'https://www.example.com/img/seminar-alumni.jpg');
+VALUES ('K00128', 'P128', 'KK003', 'Seminar Alumni', 'Seminar alumni Teknik Informatika', 'https://www.example.com/img/seminar-alumni.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000129', 'P129', 'KK004', 'Rapat Turnamen Bola Basket', 'Turnamen bola basket antar mahasiswa UKM Olahraga', 'https://www.example.com/img/turnamen-bola-basket.jpg');
+VALUES ('K00129', 'P129', 'KK004', 'Rapat Turnamen Bola Basket', 'Turnamen bola basket antar mahasiswa UKM Olahraga', 'https://www.example.com/img/turnamen-bola-basket.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000130', 'P130', 'KK003', 'Diskusi Panel', 'Diskusi panel tentang debat antar mahasiswa Teknik Informatika dan Fakultas Ilmu Budaya', 'https://www.example.com/img/diskusi-panel.jpg');
+VALUES ('K00130', 'P130', 'KK003', 'Diskusi Panel', 'Diskusi panel tentang debat antar mahasiswa Teknik Informatika dan Fakultas Ilmu Budaya', 'https://www.example.com/img/diskusi-panel.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000131', 'P131', 'KK005', 'Bakti Sosial', 'Bakti sosial bagi masyarakat sekitar kampus oleh KPA', 'https://www.example.com/img/bakti-sosial.jpg');
+VALUES ('K00131', 'P131', 'KK005', 'Bakti Sosial', 'Bakti sosial bagi masyarakat sekitar kampus oleh KPA', 'https://www.example.com/img/bakti-sosial.jpg');
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000132', 'P132', 'KK001', 'Schematics', 'Rapat Komunal Schematics ', NULL);
+VALUES ('K00132', 'P132', 'KK001', 'Schematics', 'Rapat Komunal Schematics ', NULL);
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000133', 'P133', 'KK003', 'Seminar Data science', 'Seminar Data science ', NULL);
+VALUES ('K00133', 'P133', 'KK003', 'Seminar Data science', 'Seminar Data science ', NULL);
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000134', 'P134', 'KK001', 'ILITS', 'Rapat ILITS', NULL);
+VALUES ('K00134', 'P134', 'KK001', 'ILITS', 'Rapat ILITS', NULL);
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000135', 'P135', 'KK004', 'Ukm catur', 'Sparring bulanan Ukm catur', NULL);
+VALUES ('K00135', 'P135', 'KK004', 'Ukm catur', 'Sparring bulanan Ukm catur', NULL);
 
 INSERT INTO kegiatan (K_id, K_P_id, K_kategori_id, K_nama, K_deskripsiKegiatan, K_img)
-VALUES ('K000136', 'P0', 'KK002', 'Asisten Dosen Dasprog', 'Praktikum Asisten Dosen Dasprog ', NULL);
+VALUES ('K00136', 'P136', 'KK002', 'Asisten Dosen Dasprog', 'Praktikum Asisten Dosen Dasprog ', NULL);
