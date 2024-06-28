@@ -221,6 +221,8 @@ INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P129', 'IF-105B'
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P129', 'IF-104');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P130', 'IF-102');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P131', 'IF-103');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P132', 'IF-107A');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P132', 'IF-107B');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P133', 'IF-101');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P133', 'IF-105A');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P133', 'IF-LP-01');
