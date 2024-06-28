@@ -188,6 +188,22 @@ INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P077', 'IF-111')
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P078', 'IF-GIGa');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P079', 'IF-111');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P080', 'IF-GIGa');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P081', 'TW2-601');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P082', 'IF-106B');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P083', 'RT-SIDANG-01');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P084', 'TK-AULA-01');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P085', 'TW1-601');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P086', 'TMM-LMF');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P087', 'TS-102');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P088', 'IF-105B');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P089', 'IF-RAPAT-01');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P090', 'IF-107A');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P091', 'IF-LP-01');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P092', 'TW1-502');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P093', 'IF-RAPAT-03');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P094', 'TW1-501');
+INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P095', 'IF-LP-02');
+
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P120', 'GRAHA');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P121', 'IF-RAPAT-01');
 INSERT INTO detail_peminjaman (DP_P_id, DP_ruangan_id) VALUES ('P122', 'IF-111');
