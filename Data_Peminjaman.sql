@@ -917,3 +917,47 @@ VALUES ('P794', '5025221057', 'Departemen Teknologi Informasi', '2025-09-05', '2
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
 VALUES ('P795', '5025221058', 'Departemen Teknik Elektro', '2025-09-10', '2025-09-10 14:00:00', '2025-09-10 16:00:00', 'bootcamp', 1, 'Disetujui');
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P796', '5025221044', 'Departemen Teknik Elektro', '2025-09-15', '2025-09-15 09:00:00', '2025-09-15 11:00:00', 'Kelas Pengganti', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P797', '5025221045', 'Departemen Teknik Mesin', '2025-09-20', '2025-09-20 10:00:00', '2025-09-20 12:00:00', 'Rapat komunal', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P798', '5025221046', 'Departemen Teknik Sipil', '2025-09-25', '2025-09-25 13:00:00', '2025-09-25 15:00:00', 'Kuis Susulan', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P799', '5025221047', 'Departemen Teknik Informatika', '2025-09-30', '2025-09-30 14:00:00', '2025-09-30 16:00:00', 'Seminar', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P800', '5025221048', 'Departemen Teknik Kimia', '2025-10-01', '2025-10-01 09:00:00', '2025-70-01 11:00:00', 'Kelas Pengganti', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P801', '5025220849', 'Departemen Teknik Komputer', '2025-08-05', '2025-08-05 08:00:00', '2025-08-05 12:00:00', 'Praktikum', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P802', '5025220850', 'Departemen Teknik Industri', '2025-08-08', '2025-08-08 14:00:00', '2025-08-08 16:00:00', 'bootcamp', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P803', '5025220851', 'Departemen Matematika', '2025-08-15', '2025-08-15 09:00:00', '2025-08-15 11:00:00', 'Kelas Pengganti', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P804', '5025220852', 'Departemen Sistem Informasi', '2025-08-20', '2025-08-20 08:00:00', '2025-08-20 12:00:00', 'Rapat komunal', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P805', '5025220853', 'Departemen Teknik Perkapalan', '2025-08-25', '2025-08-25 13:00:00', '2025-08-25 15:00:00', 'Kuis Susulan', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P806', '5025220854', 'Departemen Teknik Biomedik', '2025-08-30', '2025-08-30 14:00:00', '2025-08-30 16:00:00', 'bootcamp', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P807', '5025220855', 'Departemen Biologi', '2025-11-01', '2025-11-01 09:00:00', '2025-11-01 11:00:00', 'Kelas Pengganti', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P808', '5025220856', 'Departemen Sistem Informasi', '2025-11-05', '2025-11-05 08:00:00', '2025-11-05 12:00:00', 'Rapat komunal', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P809', '5025220857', 'Departemen Teknologi Informasi', '2025-11-08', '2025-11-08 13:00:00', '2025-11-08 15:00:00', 'Kuis Susulan', 1, 'Disetujui');
+
+INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
+VALUES ('P808', '5025220858', 'Departemen Teknik Elektro', '2025-11-15', '2025-11-15 14:00:00', '2025-11-15 16:00:00', 'bootcamp', 1, 'Disetujui');
