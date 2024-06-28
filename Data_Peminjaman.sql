@@ -251,10 +251,10 @@ INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai,
 VALUES ('P123','5025221003','Klub Debat FIK','2025-12-22','2025-12-22 19:00:00','2025-12-22 22:00:00','Persiapan lomba debat',2,'Disetujui');
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
-VALUES ('P124','5025221004','KPA','2025-12-23','2025-12-23 07:00:00','2025-12-23 09:00:00','Membahas Pendakian Marapi',1,'Disetujui');
+VALUES ('P124','5025221004','KPA','2025-12-23','2025-12-23 07:00:00','2025-12-23 09:00:00','Membahas Pendakian Marapi',1,'Ditolak');
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
-VALUES ('P125','5025221002','UKM Robotik','2025-12-27','2025-12-27 13:00:00','2025-12-27 17:00:00','Latihan rutin',1,'Disetujui');
+VALUES ('P125','5025221002','UKM Robotik','2025-12-23','2025-12-23 07:00:00','2025-12-23 09:00:00','Latihan rutin',1,'Disetujui');
 
 INSERT INTO peminjaman (P_id, P_users_id, P_namaOrganisasi, P_tgl, P_waktuMulai, P_waktuSelesai, P_rutinitas, P_banyakRuangan, P_status)
 VALUES ('P126','5025221001','KM Sulawesi Selatan','2025-12-28','2025-12-28 15:00:00','2025-12-28 18:00:00','Perayaan Natal',2,'Ditolak');
